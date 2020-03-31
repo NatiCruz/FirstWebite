@@ -1,0 +1,22 @@
+body{background: #770000;
+	padding: 50px;
+}
+p {
+	font-family: courier;
+	font-size: 90%;
+	color: #FFFFFF;
+}
+h1{
+	color: #EEEEEE;
+	font-size: 50px;
+	font-family: calibri;
+}
+a {
+	color: #777777;
+	text-decoration: none;
+	font-family: courier new;
+}
+a:hover {
+	color: #FFFFFF;
+	font-family: courier new;
+}
